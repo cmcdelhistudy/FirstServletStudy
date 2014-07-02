@@ -7,21 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	<center>
-		<h3>User Login</h3>
-		<form action="LoginServlet">
-			Username <input type="text" name="uname"><br>
-			 Password <input
-				type="password" name="upass">
-				<br> <input type="submit">
-		</form>
-
-	</center>
-	
-	
-	
-	<a href="a.jsp"> Go to A  Page </a>
+	<h1>B JSP Page</h1>
 
 </body>
 </html>
